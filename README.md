@@ -1,6 +1,6 @@
 # Dashboard for monitoring a Mastodon instance
 
-![Screenshot of the dashboard](https://portfolio.lukenelson.uk/MastodonDashboard.png)
+![Screenshot of the dashboard](https://portfolio.lukenelson.dev/MastodonDashboard.png)
 
 This project was inspired by [this blog post](https://ipng.ch/s/articles/2022/11/27/mastodon-3.html) by [IPngNetworks](https://ublog.tech/@IPngNetworks) [Mastodon Setup with Docker Compose](https://github.com/raeffs/mastodon-docker-compose) by [raeffs](https://github.com/raeffs). In his blog, Pim discusses how he uses Prometheus and Grafana to monitor his Mastodon instance. Everything used is FOSS and available as a container, so I was keen to get it all working in a docker compose stack.
 
